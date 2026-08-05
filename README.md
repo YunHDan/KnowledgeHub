@@ -1,5 +1,7 @@
 # KnowledgeHub
 
+> English version: [README.en.md](README.en.md)
+
 KnowledgeHub 是一个由 Obsidian + Codex 驱动的可进化知识库。它不是“存文件的仓库”，而是一个“编译一次、持续更新”的知识系统：素材进入后先被提炼，再沉淀为主题笔记与可查询的知识页，让知识随使用持续累积。
 
 本说明书面向新使用者：复制本仓库后，加入你的个人内容，把它变成你自己的知识库。
