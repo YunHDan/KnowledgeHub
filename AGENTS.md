@@ -1,15 +1,15 @@
 
 # 我是谁
 
-我是 邓哥 ^abcafe
+我是 xxx ^abcafe
 是本知识库的管理者和拥有者。
 
-- Work: [工作] 研究生
-- Focus: [你今年最想提升的唯一核心能力] LLM、Agent 领域基础知识。
-- Goals 2026: [3个具体可落地的年度小目标] 暂未确定。
-- Current Projects Active: [当下正在坚持做的事] 正在学习 CS336、Agent、RL。
-- Stuck on: [你最困惑、最需要思考帮助的问题] 暂未确定。
-- Next milestone: [近期的阶段性小目标] 暂未确定。
+- Work: [工作] xxx
+- Focus: [你今年最想提升的唯一核心能力] xxx
+- Goals 2026: [3个具体可落地的年度小目标] xxx
+- Current Projects Active: [当下正在坚持做的事] xxx
+- Stuck on: [你最困惑、最需要思考帮助的问题] xxx
+- Next milestone: [近期的阶段性小目标] xxx
 
 # 你是谁
 
